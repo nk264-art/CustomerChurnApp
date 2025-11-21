@@ -1,0 +1,7 @@
+CustomerID,Gender,Age,Partner,Dependents,Tenure,PhoneService,MonthlyCharges,TotalCharges,Churn
+1001,Male,25,Yes,No,12,Yes,29.85,349.5,0
+1002,Female,32,No,No,1,Yes,56.95,56.95,1
+1003,Male,48,No,No,45,No,53.85,2429.25,0
+1004,Female,40,Yes,Yes,2,Yes,42.30,84.6,1
+1005,Male,22,No,No,8,Yes,70.70,564.60,0
+
