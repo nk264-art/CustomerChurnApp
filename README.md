@@ -4,7 +4,7 @@
 A complete **Machine Learning + Streamlit** project that predicts whether a telecom customer will **Churn (Leave)** or **Stay** based on demographic and service usage data.
 
 ## 🚀 Live Demo  
-(https://share.streamlit.io/)
+(https://customerchurnapp-h6hpgkxan5g8enyqy6vbej.streamlit.app/)
 
 ---
 
