@@ -25,16 +25,26 @@ A complete **Machine Learning + Streamlit** project that predicts whether a tele
 
 # 📁 Project Structure
 CustomerChurnApp/
+
 │
+
 ├── app.py # Streamlit Web App (Final)
+
 ├── churn.py # ML Training Script
+
 ├── churn_model.pkl # Trained Random Forest Model
+
 ├── requirements.txt # Python Dependencies
+
 ├── README.md # Project Documentation
+
 ├── .gitignore
+
 │
 └── dataset/
+
 └── customer_churn.csv # Dataset used for training
+
 
 ---
 
