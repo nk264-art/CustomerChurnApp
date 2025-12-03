@@ -140,7 +140,7 @@ Random Forest
 
 👨‍💻 Author
 
-Aadi — AI/ML Developer
+Nitish — AI/ML Developer
 
 GitHub: https://github.com/nk264-art
 
